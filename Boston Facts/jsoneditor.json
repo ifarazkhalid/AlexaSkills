@@ -1,0 +1,41 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "facts about boston",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "a boston fact",
+                        "fact about boston",
+                        "tell me a fact",
+                        "give me a fact",
+                        "give me a boston fact",
+                        "give me some information",
+                        "information about boston",
+                        "tell me something i don't know",
+                        "give me something"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
