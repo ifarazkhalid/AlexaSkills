@@ -8,7 +8,7 @@ const Alexa = require('alexa-sdk');
 const APP_ID = undefined;
 const SKILL_NAME = 'Facts about Boston by Faraz Khalid';
 const GET_FACT_MESSAGE = "Here's your fact: ";
-const HELP_MESSAGE = 'You can say tell me a space fact, or, you can say exit... What can I help you with?';
+const HELP_MESSAGE = 'You can say tell me a Boston fact, or, you can say exit... What can I help you with?';
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
 
